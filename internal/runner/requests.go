@@ -4,7 +4,7 @@ import (
 	"crypto/tls"
 	"encoding/json"
 	"github.com/antchfx/htmlquery"
-	"github.com/canc3s/cSubsidiary/internal/gologger"
+	"github.com/coff1/cSubsidiary/internal/gologger"
 	"golang.org/x/net/html"
 	"io"
 	"io/ioutil"

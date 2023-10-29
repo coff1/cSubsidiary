@@ -1,7 +1,7 @@
 # cSubsidiary
  利用天眼查查询企业子公司
 
-[下载地址](https://github.com/canc3s/cSubsidiary/releases)
+[下载地址](https://github.com/coff1/cSubsidiary/releases)
 
 ## 介绍
 

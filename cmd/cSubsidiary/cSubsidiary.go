@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/canc3s/cSubsidiary/internal/runner"
+	"github.com/coff1/cSubsidiary/internal/runner"
 )
 
 func main() {

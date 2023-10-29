@@ -1,4 +1,4 @@
-module github.com/canc3s/cSubsidiary
+module github.com/coff1/cSubsidiary
 
 go 1.15
 

@@ -2,8 +2,8 @@ package runner
 
 import (
 	"fmt"
-	"github.com/canc3s/cSubsidiary/internal/fileutil"
-	"github.com/canc3s/cSubsidiary/internal/gologger"
+	"github.com/coff1/cSubsidiary/internal/fileutil"
+	"github.com/coff1/cSubsidiary/internal/gologger"
 	"os"
 	"regexp"
 )

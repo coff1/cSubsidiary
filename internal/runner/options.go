@@ -2,8 +2,8 @@ package runner
 
 import (
 	"flag"
-	"github.com/canc3s/cSubsidiary/internal/fileutil"
-	"github.com/canc3s/cSubsidiary/internal/gologger"
+	"github.com/coff1/cSubsidiary/internal/fileutil"
+	"github.com/coff1/cSubsidiary/internal/gologger"
 	"os"
 )
 
@@ -84,7 +84,7 @@ func (options *Options) validateOptions() {
 // showBanner is used to show the banner to the user
 func showBanner() {
 	gologger.Printf("%s%s\n", banner,Version)
-	gologger.Printf("\t\thttps://github.com/canc3s/cSubsidiary\n\n")
+	gologger.Printf("\t\thttps://github.com/coff1/cSubsidiary\n\n")
 
 	//gologger.Labelf("请谨慎使用,您应对自己的行为负责\n")
 	//gologger.Labelf("开发人员不承担任何责任，也不对任何滥用或损坏负责.\n")
